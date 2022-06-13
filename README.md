@@ -1,43 +1,16 @@
-Water Me - Starter Code
+Water Me App
 ==================================
 
-Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
-with Unit 6 of Android Basics in Kotlin
 
 Introduction
 ------------
 
-This is the starter code for the Water Me app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 6 of Android Basics in Kotlin.
-
-Pre-requisites
---------------
-
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-- Complete Project 4: Amphibians
-- Complete Unit 5 of Android Basics in Kotlin
-- Complete Project 5: Forage
-- Complete Unit 6 of Android Basics in Kotlin
+A simple app to remind you with a notification that you need to water your plant, You can long press on the plant to set the reminder and choose whether it's after 5 seconds, 1 day, 1 week or 1 month. In this app i used WorkManager to make background work for the reminder.
 
 Getting Started
 ---------------
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
-
-
-Tasks
----------------
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+1.  Install Android Studio, if you don't already have it.
+2.  Download the sample.
+3.  Import the sample into Android Studio.
+4.  Build and run the app.
